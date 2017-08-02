@@ -20,14 +20,15 @@ h2 {
   text-align: center;
 }
 
-.credit {
-  width: 100%;
-  text-align: center;
-}
-
 .column {
   width: 30%;
   padding: 3px;
   text-align: left;
   float: left;
+  display: inline-block;
+  padding-bottom: 50px;
+}
+
+.credit {
+  display: inline-block;
 }
